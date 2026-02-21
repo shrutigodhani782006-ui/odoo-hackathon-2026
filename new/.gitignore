@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# Node / React
+node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.production
+
+# MongoDB / misc
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
